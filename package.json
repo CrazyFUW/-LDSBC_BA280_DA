@@ -15,4 +15,5 @@
     "vuex": "^3.4.0"
   },
   "devDependencies": {
-    "@vue/cli-p
+    "@vue/cli-plugin-babel": "~4.4.0",
+    "@vue/cli-plugin
