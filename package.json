@@ -33,4 +33,6 @@
     "env": {
       "node": true
     },
-    "extends":
+    "extends": [
+      "plugin:vue/essential",
+      "es
