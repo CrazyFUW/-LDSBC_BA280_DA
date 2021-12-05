@@ -39,4 +39,8 @@
       "@vue/prettier"
     ],
     "parserOptions": {
-      "parser": "babel-
+      "parser": "babel-eslint"
+    },
+    "rules": {}
+  },
+  "
