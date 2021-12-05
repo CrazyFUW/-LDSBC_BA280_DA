@@ -35,4 +35,6 @@
     },
     "extends": [
       "plugin:vue/essential",
-      "es
+      "eslint:recommended",
+      "@vue/prettier"
+    
