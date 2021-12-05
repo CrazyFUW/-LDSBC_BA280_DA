@@ -37,4 +37,6 @@
       "plugin:vue/essential",
       "eslint:recommended",
       "@vue/prettier"
-    
+    ],
+    "parserOptions": {
+      "parser": "babel-
