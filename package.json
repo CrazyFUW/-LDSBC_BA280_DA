@@ -43,4 +43,6 @@
     },
     "rules": {}
   },
-  "
+  "browserslist": [
+    "> 1%",
+    "l
