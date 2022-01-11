@@ -1,3 +1,3 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <router-link to="/" cl
+    <router-link to="/" class="navbar-brand">Stock Trader</rou
