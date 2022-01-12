@@ -3,4 +3,5 @@
     <router-link to="/" class="navbar-brand">Stock Trader</router-link>
     <button
       class="navbar-toggler"
- 
+      type="button"
+      data-toggle
