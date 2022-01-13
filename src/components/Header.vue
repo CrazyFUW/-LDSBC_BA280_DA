@@ -4,4 +4,5 @@
     <button
       class="navbar-toggler"
       type="button"
-      data-toggle
+      data-toggle="collapse"
+      data-target="#nav
