@@ -5,4 +5,5 @@
       class="navbar-toggler"
       type="button"
       data-toggle="collapse"
-      data-target="#nav
+      data-target="#navbarSupportedContent"
+      aria-controls="navbar
