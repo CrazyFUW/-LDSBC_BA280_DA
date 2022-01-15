@@ -6,4 +6,5 @@
       type="button"
       data-toggle="collapse"
       data-target="#navbarSupportedContent"
-      aria-controls="navbar
+      aria-controls="navbarSupportedContent"
+      aria-expanded="
