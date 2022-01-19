@@ -15,4 +15,5 @@
 
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
-        <router-link to="portfolio" class="nav-item" a
+        <router-link to="portfolio" class="nav-item" activeClass="active" tag="li">
+          <
