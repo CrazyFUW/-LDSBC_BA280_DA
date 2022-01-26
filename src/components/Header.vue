@@ -20,4 +20,5 @@
             Portfolio
             <span class="sr-only">(current)</span>
           </a>
-        </router
+        </router-link>
+        <router-link to="stoc
