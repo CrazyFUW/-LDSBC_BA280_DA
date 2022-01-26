@@ -18,4 +18,6 @@
         <router-link to="portfolio" class="nav-item" activeClass="active" tag="li">
           <a class="nav-link" href="#">
             Portfolio
-            <span class="sr-only">(curr
+            <span class="sr-only">(current)</span>
+          </a>
+        </router
