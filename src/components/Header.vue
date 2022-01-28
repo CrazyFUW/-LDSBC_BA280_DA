@@ -22,4 +22,6 @@
           </a>
         </router-link>
         <router-link to="stocks" class="nav-item" activeClass="active" tag="li">
-          <a class="nav-link" href="#
+          <a class="nav-link" href="#">Stocks</a>
+        </router-link>
+      </ul>
