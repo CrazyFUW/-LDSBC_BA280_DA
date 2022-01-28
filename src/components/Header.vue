@@ -21,4 +21,5 @@
             <span class="sr-only">(current)</span>
           </a>
         </router-link>
-        <router-link to="stocks" class="nav-item" activeClass="active" tag
+        <router-link to="stocks" class="nav-item" activeClass="active" tag="li">
+          <a class="nav-link" href="#
