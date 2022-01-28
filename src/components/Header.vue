@@ -25,3 +25,4 @@
           <a class="nav-link" href="#">Stocks</a>
         </router-link>
       </ul>
+      <ul class="navbar-nav navbar-ri
