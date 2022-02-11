@@ -27,4 +27,7 @@
       </ul>
       <ul class="navbar-nav navbar-right">
         <li class="nav-item">
-          <a class="nav-link" href="#" @click.prev
+          <a class="nav-link" href="#" @click.prevent="endDay">End Day</a>
+        </li>
+        
+   
