@@ -30,4 +30,7 @@
           <a class="nav-link" href="#" @click.prevent="endDay">End Day</a>
         </li>
         
-   
+        
+        <li 
+          class="nav-item dropdown">
+       
