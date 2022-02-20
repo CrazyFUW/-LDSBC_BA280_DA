@@ -39,4 +39,5 @@
             id="navbarDropdown"
             role="button"
             data-toggle="dropdown"
-   
+            aria-haspopup="true"
+           
