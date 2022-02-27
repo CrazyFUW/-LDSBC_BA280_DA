@@ -43,4 +43,5 @@
             aria-expanded="false"
           >Save & Load</a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="#" @click.prevent="saveData
+            <a class="dropdown-item" href="#" @click.prevent="saveData">Save Data</a>
+            <a class="dropdo
