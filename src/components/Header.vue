@@ -48,4 +48,6 @@
           </div>
         </li>
         <li class="nav-item">
-          <strong class="nav-link">Fund: {{ fund | 
+          <strong class="nav-link">Fund: {{ fund | currency }}</strong>
+        </li>
+      </ul>
