@@ -46,4 +46,6 @@
             <a class="dropdown-item" href="#" @click.prevent="saveData">Save Data</a>
             <a class="dropdown-item" href="#"  @click.prevent="loadData">Load Data</a>
           </div>
-      
+        </li>
+        <li class="nav-item">
+    
