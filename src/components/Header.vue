@@ -51,3 +51,6 @@
           <strong class="nav-link">Fund: {{ fund | currency }}</strong>
         </li>
       </ul>
+    </div>
+  </nav>
+</template>
