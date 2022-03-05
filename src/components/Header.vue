@@ -59,4 +59,5 @@
 export default {
 
   computed: {
- 
+    fund() {
+      return this.$store.
