@@ -60,4 +60,7 @@ export default {
 
   computed: {
     fund() {
-      return this.$store.
+      return this.$store.getters.funds;
+    }
+  },
+  methods: {
