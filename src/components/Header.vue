@@ -68,4 +68,6 @@ export default {
       this.$store.dispatch('randomizeStocks')
     },
     saveData() {
-      const d
+      const data = {
+        funds: this.$store.getters.funds,
+   
