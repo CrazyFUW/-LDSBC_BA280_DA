@@ -64,3 +64,5 @@ export default {
     }
   },
   methods: {
+    endDay() {
+      this.$store.dispatch('randomiz
