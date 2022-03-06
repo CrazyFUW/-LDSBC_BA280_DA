@@ -65,4 +65,7 @@ export default {
   },
   methods: {
     endDay() {
-      this.$store.dispatch('randomiz
+      this.$store.dispatch('randomizeStocks')
+    },
+    saveData() {
+      const d
