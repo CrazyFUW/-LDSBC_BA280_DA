@@ -73,4 +73,7 @@ export default {
         stockPortfolio: this.$store.getters.stockPortfolio,
         stocks: this.$store.getters.stocks
       };
-      this.$http.put('data.json'
+      this.$http.put('data.json', data);
+    },
+    loadData() {
+      th
