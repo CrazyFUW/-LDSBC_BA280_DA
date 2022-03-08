@@ -76,4 +76,8 @@ export default {
       this.$http.put('data.json', data);
     },
     loadData() {
-      th
+      this.$store.dispatch('loadData');
+    },
+  }
+};
+</scrip
