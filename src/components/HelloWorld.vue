@@ -2,4 +2,4 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      Fo
+      For a guide and recipes on how to confi
