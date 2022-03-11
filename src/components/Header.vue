@@ -80,4 +80,7 @@ export default {
     },
   }
 };
-</scrip
+</script>
+
+<style>
+</style>
