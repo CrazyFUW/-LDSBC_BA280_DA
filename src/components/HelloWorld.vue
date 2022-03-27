@@ -36,4 +36,6 @@
       </li>
       <li>
         <a
-          href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/
+          href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint"
+          target="_blank"
+          
