@@ -36,4 +36,4 @@
       </li>
       <li>
         <a
-          href="https://github.com/vuejs/v
+          href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/
