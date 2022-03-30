@@ -47,4 +47,6 @@
     <ul>
       <li>
         <a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a>
-      </l
+      </li>
+      <li>
+        <a href="https://for
