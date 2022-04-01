@@ -54,4 +54,4 @@
         >
       </li>
       <li>
-        <a href="https://chat.vue
+        <a href="https://chat.vuejs.org" target="_blank" rel="noopener"
