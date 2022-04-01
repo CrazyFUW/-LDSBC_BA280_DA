@@ -53,3 +53,5 @@
           >Forum</a
         >
       </li>
+      <li>
+        <a href="https://chat.vue
