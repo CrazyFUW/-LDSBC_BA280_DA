@@ -59,4 +59,5 @@
         >
       </li>
       <li>
-        <a href="https://twitt
+        <a href="https://twitter.com/vuejs" target="_blank" rel="noopener"
+ 
