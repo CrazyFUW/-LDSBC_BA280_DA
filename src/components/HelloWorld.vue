@@ -55,3 +55,6 @@
       </li>
       <li>
         <a href="https://chat.vuejs.org" target="_blank" rel="noopener"
+          >Community Chat</a
+        >
+      </
