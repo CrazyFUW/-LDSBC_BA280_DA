@@ -64,4 +64,4 @@
         >
       </li>
       <li>
-        <a href="https://news.vue
+        <a href="https://news.vuejs.org" target="_blank" rel="noopener">New
