@@ -70,4 +70,6 @@
     <h3>Ecosystem</h3>
     <ul>
       <li>
-        <a href="https://router.vuejs.org" target="_blank" rel="
+        <a href="https://router.vuejs.org" target="_blank" rel="noopener"
+          >vue-router</a
+      
