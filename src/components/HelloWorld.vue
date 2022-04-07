@@ -75,4 +75,4 @@
         >
       </li>
       <li>
-        <a href="https://
+        <a href="https://vuex.vuejs.org" target="_blank" rel="n
