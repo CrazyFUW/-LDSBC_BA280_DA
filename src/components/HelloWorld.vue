@@ -80,4 +80,6 @@
       <li>
         <a
           href="https://github.com/vuejs/vue-devtools#vue-devtools"
-          target="_b
+          target="_blank"
+          rel="noopener"
+          >vue-
