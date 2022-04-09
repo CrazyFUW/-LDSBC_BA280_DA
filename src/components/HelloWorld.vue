@@ -79,4 +79,5 @@
       </li>
       <li>
         <a
-          href="https://github.com/vuej
+          href="https://github.com/vuejs/vue-devtools#vue-devtools"
+          target="_b
