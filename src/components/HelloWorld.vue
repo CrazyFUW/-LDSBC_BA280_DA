@@ -86,4 +86,6 @@
         >
       </li>
       <li>
-        <a href="https://vue-loader.vuejs.org" target
+        <a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener"
+          >vue-loader</a
+  
