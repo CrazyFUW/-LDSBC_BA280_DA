@@ -92,4 +92,6 @@
       </li>
       <li>
         <a
-          href="https://github.com/vuejs/awesom
+          href="https://github.com/vuejs/awesome-vue"
+          target="_blank"
+          rel="no
