@@ -94,4 +94,7 @@
         <a
           href="https://github.com/vuejs/awesome-vue"
           target="_blank"
-          rel="no
+          rel="noopener"
+          >awesome-vue</a
+        >
+ 
