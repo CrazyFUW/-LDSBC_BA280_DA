@@ -104,4 +104,9 @@
 
 <script>
 export default {
-  name: "HelloWo
+  name: "HelloWorld",
+  props: {
+    msg: String
+  }
+};
+</scrip
