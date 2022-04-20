@@ -109,4 +109,6 @@ export default {
     msg: String
   }
 };
-</scrip
+</script>
+
+<!-- Add "scoped" attribute to li
