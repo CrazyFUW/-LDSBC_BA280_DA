@@ -6,4 +6,6 @@
 
 <script>
 import Stock from "./Stock";
-exp
+export default {
+  components:{
+    appStock: S
