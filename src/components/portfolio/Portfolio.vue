@@ -8,4 +8,8 @@
 import Stock from "./Stock";
 export default {
   components:{
-    appStock: S
+    appStock: Stock
+  },
+  computed: {
+    stocks() {
+      return t
