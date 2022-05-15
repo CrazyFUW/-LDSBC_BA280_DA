@@ -12,4 +12,8 @@ export default {
   },
   computed: {
     stocks() {
-      return t
+      return this.$store.getters.stockPortfolio
+    }
+  }
+}
+</
