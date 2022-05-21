@@ -4,4 +4,5 @@
     <div class="card-header">
       {{ stock.name }}
       <small>(Price: {{ stock.price }} | Quantity: {{ stock.quantity }})</small>
-   
+    </div>
+    <div class="card-body  text-success
