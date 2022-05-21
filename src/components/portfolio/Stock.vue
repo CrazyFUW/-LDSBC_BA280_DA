@@ -5,4 +5,5 @@
       {{ stock.name }}
       <small>(Price: {{ stock.price }} | Quantity: {{ stock.quantity }})</small>
     </div>
-    <div class="card-body  text-success
+    <div class="card-body  text-success">
+      <div class="float-le
