@@ -3,4 +3,4 @@
     <div class="card border-success">
     <div class="card-header">
       {{ stock.name }}
-  
+      <small>(Price: {{ stock.price }} | Qu
