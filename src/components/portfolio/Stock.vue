@@ -8,4 +8,5 @@
     <div class="card-body  text-success">
       <div class="float-left">
         <input 
-          type="n
+          type="number"
+          class="form-control"
