@@ -12,4 +12,6 @@
           class="form-control"
           placeholder="Quantity"
           v-model.number="quantity"
-          :class="{ dang
+          :class="{ danger: insufficientQuantity }"
+          >
+      <
