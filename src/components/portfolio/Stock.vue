@@ -14,4 +14,6 @@
           v-model.number="quantity"
           :class="{ danger: insufficientQuantity }"
           >
-      <
+      </div>
+      <div class="float-right">
+        <b
