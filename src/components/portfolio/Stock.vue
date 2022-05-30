@@ -19,4 +19,4 @@
         <button 
           class="btn btn-success" 
           @click="sellStock" 
-       
+          :disabled="insufficientQuantity || quantity <= 0 || !Numb
