@@ -17,4 +17,6 @@
       </div>
       <div class="float-right">
         <button 
-          class="btn btn-succ
+          class="btn btn-success" 
+          @click="sellStock" 
+       
