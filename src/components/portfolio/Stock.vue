@@ -20,4 +20,4 @@
           class="btn btn-success" 
           @click="sellStock" 
           :disabled="insufficientQuantity || quantity <= 0 || !Number.isInteger(quantity)"
-          >{{ insufficientQuant
+          >{{ insufficientQuantity ? 'Insufficient Quantity' :
