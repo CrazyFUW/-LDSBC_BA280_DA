@@ -22,4 +22,8 @@
           :disabled="insufficientQuantity || quantity <= 0 || !Number.isInteger(quantity)"
           >{{ insufficientQuantity ? 'Insufficient Quantity' : 'Sell' }}</button>
       </div>
-   
+    </div>
+</div>
+  </div>
+</template>
+<style scope
