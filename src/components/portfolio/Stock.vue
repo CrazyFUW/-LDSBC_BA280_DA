@@ -26,4 +26,8 @@
 </div>
   </div>
 </template>
-<style scope
+<style scoped>
+.danger {
+  border: 1px solid red;
+}
+<
