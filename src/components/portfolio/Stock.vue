@@ -37,4 +37,7 @@ export default {
   data() {
     return {
       quantity: 0,
- 
+    };
+  },
+  computed: {
+    insufficientQuanti
