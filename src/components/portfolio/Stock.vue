@@ -40,4 +40,5 @@ export default {
     };
   },
   computed: {
-    insufficientQuanti
+    insufficientQuantity() {
+      return this.quantity >  thi
