@@ -33,4 +33,8 @@
 </style>
 <script>
 export default {
-  props: [
+  props: ['stock'],
+  data() {
+    return {
+      quantity: 0,
+ 
