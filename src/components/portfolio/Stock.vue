@@ -41,4 +41,8 @@ export default {
   },
   computed: {
     insufficientQuantity() {
-      return this.quantity >  thi
+      return this.quantity >  this.stock.quantity;
+    },
+  },
+  methods: {
+   
