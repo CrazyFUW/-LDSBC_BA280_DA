@@ -45,4 +45,5 @@ export default {
     },
   },
   methods: {
-   
+    sellStock() {
+      const order = {
