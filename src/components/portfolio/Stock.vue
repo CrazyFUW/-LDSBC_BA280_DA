@@ -53,3 +53,6 @@ export default {
       }
       console.log(order);
       this.$store.dispatch('sellStock', order);
+      this.quantity = 0;
+    }
+  
