@@ -49,4 +49,7 @@ export default {
       const order = {
         stockId: this.stock.id,
         stockPrice: this.stock.price,
-        quantity: 
+        quantity: this.quantity
+      }
+      console.log(order);
+      this.
