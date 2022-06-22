@@ -52,4 +52,4 @@ export default {
         quantity: this.quantity
       }
       console.log(order);
-      this.
+      this.$store.dispatch('sellStock', order);
