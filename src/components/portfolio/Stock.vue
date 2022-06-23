@@ -61,4 +61,4 @@ export default {
 
 <style>
 
-</styl
+</style>
