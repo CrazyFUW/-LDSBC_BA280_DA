@@ -3,4 +3,6 @@
     <div class="card border-success">
       <div class="card-header">
         {{ stock.name }}
-        <small>({{ 
+        <small>({{ stock.price }})</small>
+      </div>
+      <div 
