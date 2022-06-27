@@ -6,4 +6,6 @@
         <small>({{ stock.price }})</small>
       </div>
       <div class="card-body text-success">
-       
+        <div class="float-left">
+          <input
+        
