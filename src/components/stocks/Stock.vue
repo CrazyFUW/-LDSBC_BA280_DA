@@ -9,4 +9,6 @@
         <div class="float-left">
           <input
             type="number"
-            class="form-con
+            class="form-control"
+            placeholder="Quantity"
+  
