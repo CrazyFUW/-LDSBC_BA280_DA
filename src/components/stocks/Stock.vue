@@ -13,4 +13,6 @@
             placeholder="Quantity"
             v-model.number="quantity"
             :class="{danger: insufficientFunds}"
-         
+          />
+        </div>
+        <div 
