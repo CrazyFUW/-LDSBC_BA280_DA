@@ -18,4 +18,5 @@
         <div class="float-right">
           <button
             class="btn btn-success"
-      
+            @click="buyStock"
+            :disabled="insuffi
