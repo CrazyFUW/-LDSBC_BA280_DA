@@ -15,4 +15,6 @@
             :class="{danger: insufficientFunds}"
           />
         </div>
-        <div 
+        <div class="float-right">
+          <button
+         
