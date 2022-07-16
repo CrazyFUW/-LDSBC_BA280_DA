@@ -19,4 +19,5 @@
           <button
             class="btn btn-success"
             @click="buyStock"
-            :disabled="insufficientFunds || quantity <= 0 || !Number.isInteger(qua
+            :disabled="insufficientFunds || quantity <= 0 || !Number.isInteger(quantity)"
+          >{{ insufficientFunds ? 'Ins
