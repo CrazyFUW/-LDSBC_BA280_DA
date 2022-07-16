@@ -22,4 +22,7 @@
             :disabled="insufficientFunds || quantity <= 0 || !Number.isInteger(quantity)"
           >{{ insufficientFunds ? 'Insufficient Fund' : 'Buy' }}</button>
         </div>
- 
+      </div>
+    </div>
+  </div>
+</templ
