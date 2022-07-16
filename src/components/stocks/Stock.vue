@@ -20,4 +20,6 @@
             class="btn btn-success"
             @click="buyStock"
             :disabled="insufficientFunds || quantity <= 0 || !Number.isInteger(quantity)"
-          >{{ insufficientFunds ? 'Ins
+          >{{ insufficientFunds ? 'Insufficient Fund' : 'Buy' }}</button>
+        </div>
+ 
