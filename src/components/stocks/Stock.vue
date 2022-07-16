@@ -25,4 +25,7 @@
       </div>
     </div>
   </div>
-</templ
+</template>
+<style scoped>
+.danger {
+  border: 1px 
