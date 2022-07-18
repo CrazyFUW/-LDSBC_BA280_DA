@@ -28,4 +28,8 @@
 </template>
 <style scoped>
 .danger {
-  border: 1px 
+  border: 1px solid red;
+}
+</style>
+<script>
+export
