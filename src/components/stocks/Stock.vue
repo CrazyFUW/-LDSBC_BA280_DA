@@ -32,4 +32,7 @@
 }
 </style>
 <script>
-export
+export default {
+  props: ["stock"],
+  data() {
+    
