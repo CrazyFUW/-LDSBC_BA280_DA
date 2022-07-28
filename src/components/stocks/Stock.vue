@@ -35,4 +35,8 @@
 export default {
   props: ["stock"],
   data() {
-    
+    return {
+      quantity: 0
+    };
+  },
+  comput
