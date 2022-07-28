@@ -39,4 +39,6 @@ export default {
       quantity: 0
     };
   },
-  comput
+  computed: {
+    insufficientFunds() {
+      return t
