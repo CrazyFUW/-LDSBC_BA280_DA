@@ -41,4 +41,5 @@ export default {
   },
   computed: {
     insufficientFunds() {
-      return t
+      return this.quantity * this.stock.price > this.funds;
+    }
