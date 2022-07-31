@@ -44,4 +44,8 @@ export default {
       return this.quantity * this.stock.price > this.funds;
     },
     funds() {
-      return this.$store.get
+      return this.$store.getters.funds;
+    }
+  },
+  methods: {
+    buy
