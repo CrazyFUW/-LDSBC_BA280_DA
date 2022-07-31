@@ -48,4 +48,6 @@ export default {
     }
   },
   methods: {
-    buy
+    buyStock() {
+      const order = {
+        stockId: 
