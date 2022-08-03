@@ -50,4 +50,5 @@ export default {
   methods: {
     buyStock() {
       const order = {
-        stockId: 
+        stockId: this.stock.id,
+        stockPrice: this.
