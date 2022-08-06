@@ -54,4 +54,5 @@ export default {
         stockPrice: this.stock.price,
         quantity: this.quantity
       };
-      consol
+      console.log(order);
+      this.$store.d
