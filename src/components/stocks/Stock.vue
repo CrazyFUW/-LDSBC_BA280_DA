@@ -55,4 +55,7 @@ export default {
         quantity: this.quantity
       };
       console.log(order);
-      this.$store.d
+      this.$store.dispatch("buyStocks", order);
+      this.quantity = 0;
+    }
+  
