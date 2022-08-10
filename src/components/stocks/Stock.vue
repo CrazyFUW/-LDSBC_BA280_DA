@@ -58,4 +58,9 @@ export default {
       this.$store.dispatch("buyStocks", order);
       this.quantity = 0;
     }
-  
+  }
+};
+</script>
+
+<style>
+</style>
