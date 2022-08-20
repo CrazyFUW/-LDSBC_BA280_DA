@@ -9,4 +9,7 @@
 import Stock from "./Stock";
 export default {
   components: {
-    a
+    appStock: Stock,
+  },
+  computed: {
+    stocks()
