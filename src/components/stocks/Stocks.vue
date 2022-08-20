@@ -6,4 +6,7 @@
 </template>
 
 <script>
-import Stock f
+import Stock from "./Stock";
+export default {
+  components: {
+    a
