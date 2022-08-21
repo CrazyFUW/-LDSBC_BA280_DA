@@ -13,4 +13,12 @@ export default {
   },
   computed: {
     stocks() {
-      return this.$store.getters.
+      return this.$store.getters.stocks
+    }
+  }
+}
+</script>
+
+<style>
+
+</st
