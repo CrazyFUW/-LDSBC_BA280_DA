@@ -21,4 +21,4 @@ export default {
 
 <style>
 
-</st
+</style>
