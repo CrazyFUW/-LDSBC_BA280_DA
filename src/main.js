@@ -5,4 +5,6 @@ import router from "./router";
 import store from "./store";
 
 Vue.config.productionTip = false;
-V
+Vue.use(VueResource);
+
+Vue.http.options.root =
