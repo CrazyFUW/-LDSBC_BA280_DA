@@ -7,4 +7,4 @@ import store from "./store";
 Vue.config.productionTip = false;
 Vue.use(VueResource);
 
-Vue.http.options.root =
+Vue.http.options.root = 'https://stock-trader-2c143.fireba
