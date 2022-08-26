@@ -13,4 +13,7 @@ Vue.filter('currency', (value) => {
 });
 
 new Vue({
-  rou
+  router,
+  store,
+  render: h => h(App)
+}).$mount("#a
