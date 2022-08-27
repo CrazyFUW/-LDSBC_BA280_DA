@@ -1,2 +1,3 @@
 import Vue from "vue";
-import VueRouter 
+import VueRouter from "vue-router";
+import Home from "../comp
