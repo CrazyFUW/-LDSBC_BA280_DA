@@ -1,3 +1,4 @@
 import Vue from "vue";
 import VueRouter from "vue-router";
-import Home from "../comp
+import Home from "../components/Home";
+import Portfolio from "../compo
