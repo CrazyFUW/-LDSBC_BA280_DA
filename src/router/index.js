@@ -14,4 +14,6 @@ const routes = [
   },
   {
     path: "/portfolio",
-    name: "Port
+    name: "Portfolio",
+    component: Portfolio
+  },
