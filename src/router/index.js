@@ -11,3 +11,7 @@ const routes = [
     path: "/",
     name: "Home",
     component: Home
+  },
+  {
+    path: "/portfolio",
+    name: "Port
