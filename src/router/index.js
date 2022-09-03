@@ -20,3 +20,8 @@ const routes = [
   {
     path: "/stocks",
     name: "Stocks",
+    component: Stocks
+  }
+];
+
+const 
