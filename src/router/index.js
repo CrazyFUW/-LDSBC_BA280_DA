@@ -17,3 +17,6 @@ const routes = [
     name: "Portfolio",
     component: Portfolio
   },
+  {
+    path: "/stocks",
+    name: "Stocks",
