@@ -24,4 +24,5 @@ const routes = [
   }
 ];
 
-const 
+const router = new VueRouter({
+  mode: "hi
