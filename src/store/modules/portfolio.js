@@ -3,4 +3,5 @@ const state = {
     stocks: [],
 };
 
-const mutat
+const mutations = {
+    'BUY_STOCK' (state, {stockId, quantit
