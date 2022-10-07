@@ -14,4 +14,6 @@ const mutations = {
                 quantity: quantity
             });
         }
-        s
+        state.funds -= stockPrice * quantity;
+    },
+    'SEL
