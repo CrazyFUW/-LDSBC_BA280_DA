@@ -26,4 +26,5 @@ const mutations = {
         state.funds += stockPrice * quantity;
     },
     'SET_PORTFOLIO' (state, portfolio) {
-        state
+        state.funds = portfolio.funds,
+        stat
