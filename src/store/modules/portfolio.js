@@ -31,4 +31,6 @@ const mutations = {
     }
 };
 
-cons
+const actions = {
+    sellStock({commit}, order) {
+  
