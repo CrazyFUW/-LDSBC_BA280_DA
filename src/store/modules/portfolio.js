@@ -34,3 +34,8 @@ const mutations = {
 const actions = {
     sellStock({commit}, order) {
         commit('SELL_STOCK', order);
+    }
+};
+
+const getters = {
+    stockPortf
