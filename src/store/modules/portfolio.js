@@ -39,4 +39,5 @@ const actions = {
 
 const getters = {
     stockPortfolio (state, getters) {
-        return
+        return state.stocks.map(stock => {
+            const
