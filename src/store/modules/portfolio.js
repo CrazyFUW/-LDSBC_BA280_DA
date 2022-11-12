@@ -40,4 +40,4 @@ const actions = {
 const getters = {
     stockPortfolio (state, getters) {
         return state.stocks.map(stock => {
-            const
+            const record = getters.stocks.find(element => ele
