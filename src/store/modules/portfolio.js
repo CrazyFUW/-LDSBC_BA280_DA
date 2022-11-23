@@ -43,4 +43,5 @@ const getters = {
             const record = getters.stocks.find(element => element.id == stock.id);
             return {
                 id: stock.id,
-           
+                quantity: stock.quantity,
+      
