@@ -47,4 +47,7 @@ const getters = {
                 name: record.name,
                 price: record.price
             }
-      
+        })
+    },
+    funds (state) {
+        return
