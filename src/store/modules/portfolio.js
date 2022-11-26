@@ -44,4 +44,5 @@ const getters = {
             return {
                 id: stock.id,
                 quantity: stock.quantity,
-      
+                name: record.name,
+              
