@@ -50,4 +50,9 @@ const getters = {
         })
     },
     funds (state) {
-        return
+        return state.funds;
+    }
+};
+
+export default {
+    state,
