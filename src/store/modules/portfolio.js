@@ -58,4 +58,5 @@ export default {
     state,
     mutations,
     actions, 
-    gette
+    getters
+}
