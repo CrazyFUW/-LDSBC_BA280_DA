@@ -4,4 +4,5 @@ const state = {
     stocks: [],
 };
 
-cons
+const mutations = {
+    'SET_STOCKS' (stat
