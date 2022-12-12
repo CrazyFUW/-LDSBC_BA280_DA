@@ -1,3 +1,7 @@
 import stocks from "../../../data/stocks";
 
-c
+const state = {
+    stocks: [],
+};
+
+cons
