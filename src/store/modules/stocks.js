@@ -9,4 +9,5 @@ const mutations = {
         state.stocks = stocks;
     },
     'RND_STOCKS' (state) {
-        state.stocks.f
+        state.stocks.forEach(stock => {
+            stock.price
