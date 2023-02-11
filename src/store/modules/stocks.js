@@ -19,4 +19,5 @@ const actions = {
     buyStocks: ({commit}, order) => {
         commit('BUY_STOCK', order);
     },
-    in
+    initStocks: ({commit}) => {
+        commit(
