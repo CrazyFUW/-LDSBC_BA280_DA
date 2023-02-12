@@ -20,4 +20,6 @@ const actions = {
         commit('BUY_STOCK', order);
     },
     initStocks: ({commit}) => {
-        commit(
+        commit('SET_STOCKS', stocks);
+    },
+    randomizeS
