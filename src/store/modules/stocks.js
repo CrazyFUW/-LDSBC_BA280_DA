@@ -29,3 +29,8 @@ const actions = {
 
 const getters = {
     stocks: state => {
+        return state.stocks;
+    }
+}
+
+ex
