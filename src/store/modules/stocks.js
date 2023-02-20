@@ -22,4 +22,5 @@ const actions = {
     initStocks: ({commit}) => {
         commit('SET_STOCKS', stocks);
     },
-    randomizeS
+    randomizeStocks:({commit}) => {
+        commit('RND_STOCKS')
