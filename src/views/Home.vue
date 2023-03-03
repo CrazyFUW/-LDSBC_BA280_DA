@@ -1,2 +1,3 @@
 <template>
-  <div class="home
+  <div class="home">
+    <img alt="Vue logo" src="../asset
