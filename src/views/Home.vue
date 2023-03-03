@@ -1,3 +1,4 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../asset
+    <img alt="Vue logo" src="../assets/logo.png" />
+    <HelloWorld msg="Welcome to Y
